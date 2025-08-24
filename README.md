@@ -6,3 +6,8 @@ Apply advanced image processing techniques and lters for enhanced analysis.
 Train a machine learning model on a comprehensive dataset to detect cancer and its stage.
 Combine image-based insights with symptom data for reliable diagnosis.
 Support early detection to improve treatment outcomes for uterine cancer.
+
+PAPER PUBLISHED BY IJIRCCE
+https://ijircce.com/admin/main/storage/app/pdf/INPFFyEMdo1fbZ6GctfpOZ6DBe5AyEo57cX9Tynn.pdf
+OR
+https://www.ijircce.com/get-current-issue.php?key=MTY0
